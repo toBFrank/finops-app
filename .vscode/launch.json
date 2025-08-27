@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MoolahCoreApplication<moolah-core>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.moolah.moolah_core.MoolahCoreApplication",
+            "projectName": "moolah-core",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
